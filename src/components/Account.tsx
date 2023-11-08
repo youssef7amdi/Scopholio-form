@@ -442,7 +442,7 @@ export default function Account() {
             fontWeight="bold"
             flexShrink={0}
           >
-            Dialect Response
+            Showcases Topics
           </Typography>
           <Stack spacing={1}>
             <Stack direction={{ xs: "column", sm: "row" }} spacing={1}>
